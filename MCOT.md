@@ -67,10 +67,12 @@ https://www.apprendre-en-ligne.net/blog/docu/TropMonopoly.pdf
 5. Dynamiques aléatoires : chaines de Markov
 https://math.unice.fr/~diener/MAB06/Markov1.pdf
 
-7. 
+7. Utilisation de chaine de Markov dans les jeux de strategies
+   https://www.theses.fr/2020COAZ4089.pdf
 8. 
 9. 
 10. 
 11. 
 12. 
+13. 
 
