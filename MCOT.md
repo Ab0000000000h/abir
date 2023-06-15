@@ -49,7 +49,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 ## Objectifs du TIPE (max 100 mots)
 
 1.Développer une méthode utilisant la théorie de Markov pour prendre des décisions optimales dans le jeu Monopoly.
-2.la compréhension des concepts de la théorie de Markov et des chaînes de Markov, la construction d'une matrice de transition représentant les probabilités de passage entre les cases du jeu, l'utilisation de ces probabilités pour guider les achats et les décisions de développement de propriétés.
+2.Comprendre les  concepts de la théorie de Markov et des chaînes de Markov, la construction d'une matrice de transition représentant les probabilités de passage entre les cases du jeu, l'utilisation de ces probabilités pour guider les achats et les décisions de développement de propriétés.
 3.l'évaluation de l'efficacité de cette stratégie grâce à des simulations du jeu.
 
 
