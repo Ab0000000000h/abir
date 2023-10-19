@@ -1,4 +1,5 @@
 # Titre
+"Devenir riche!...au Monopol: étude de stratégies" 
 
 ## Motivations pour le choix du sujet
 
