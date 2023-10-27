@@ -11,14 +11,14 @@
 
 1.
 Informatique : L'utilisation d'un code en langage C pour calculer les probabilités de transition entre les cases du Monopoly et pour effectuer des simulations du jeu afin d'évaluer l'efficacité de la stratégie proposée.
+
 2.mathematique : 
 -Probabilités : L'utilisation de la théorie de Markov pour modéliser les probabilités de transition entre les cases du Monopoly.
 -La construction d'une matrice de transition, qui repose sur des concepts mathématiques et probabilistes, ainsi que l'analyse des données et des probabilités pour guider les décisions stratégiques dans le jeu. 
-3.
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
-- Physique : Physique interdisciplinaire, Physique Ondulatoire, Physique de la matière, Mécanique, Physique Théorique
+
 
 
 ## Mots-clés (par ordre de priorité décroissante)
